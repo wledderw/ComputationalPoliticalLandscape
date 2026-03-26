@@ -1,0 +1,16 @@
+numpy
+matplotlib
+pandas
+torch
+transformers
+datasets
+scikit-learn
+tqdm
+scipy
+textwrap3
+plotly
+jupyter
+
+# Only needed for data collection:
+requests
+beautifulsoup4
