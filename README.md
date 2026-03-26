@@ -44,7 +44,7 @@ ComputationalPoliticalLandscape
 │       separate_speeches_test_set.png
 │
 └───weights
-    │   README.md
+    │   README_WEIGHTS.md
     │   ### DOWNLOAD THE FOLLOWING FOLDER, SEE weights/README.md:
     └───params_epoch_19_bs32_lr2e-05_hiddendropout0.5_attentiondropout0.5_weightdecay0.0003_warmup10
             config.json
