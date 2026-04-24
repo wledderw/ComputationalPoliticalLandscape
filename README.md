@@ -97,6 +97,10 @@ And open the Jupyter Notebook called `inference.ipynb` from here, and run all ce
 
 All plots made during these scripts and notebooks are saved in the folder `plots`.
 
+## Interactive notebook
+
+For running the interactive notebook, where you can inspect samples separately (in Dutch), please paste the notebook link into nbviewer.org, or click the following link: https://nbviewer.org/github/wledderw/ComputationalPoliticalLandscape/blob/main/inference.ipynb
+
 ## Citation
 
 If you find this repository helpful in an academic setting, please cite:
