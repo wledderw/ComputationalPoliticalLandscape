@@ -101,8 +101,20 @@ All plots made during these scripts and notebooks are saved in the folder `plots
 
 For running the interactive notebook, where you can inspect samples separately (in Dutch), please paste the notebook link into nbviewer.org, or click the following link: https://nbviewer.org/github/wledderw/ComputationalPoliticalLandscape/blob/main/inference.ipynb
 
+## Workshop presentation
+
+The presentation slides that have been used in the workshop can be found at the following link: https://www.clarin.eu/media/9454
+
 ## Citation
 
 If you find this repository helpful in an academic setting, please cite:
 
-TBA
+```
+@inproceedings{ledder2026computational,
+  title={Computational Political Landscape of the Netherlands and Prime Minister Schoof’s Position},
+  author={Ledder, Wessel and Hendrickx, Iris},
+  booktitle={ParlaCLARIN V: Workshop on Interoperability, Multilinguality, and Multimodality in Parliamentary Corpora},
+  pages={77-86},
+  year={2026}
+}
+```
